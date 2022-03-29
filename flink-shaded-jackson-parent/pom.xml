@@ -35,7 +35,7 @@ under the License.
     <version>2.12.4-16.1-SNAPSHOT</version>
 
     <properties>
-        <jackson.version>2.12.4</jackson.version>
+        <jackson.version>2.12.6.20220326</jackson.version>
     </properties>
 
     <modules>
