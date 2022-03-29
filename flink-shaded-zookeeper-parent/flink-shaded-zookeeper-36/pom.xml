@@ -31,7 +31,7 @@ under the License.
 
     <artifactId>flink-shaded-zookeeper-3</artifactId>
     <name>flink-shaded-zookeeper-3.6</name>
-    <version>${zookeeper.version}-16.0</version>
+    <version>${zookeeper.version}-16.1-SNAPSHOT</version>
 
     <properties>
         <zookeeper.version>3.6.3</zookeeper.version>
